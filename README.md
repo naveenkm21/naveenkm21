@@ -26,14 +26,5 @@ I'm a self-taught passionate Web developer from India 🇮🇳
 | <a href="https://github.com/naveenkm21/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkm21&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/naveenkm21/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkm21&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-
-<a href="https://github.com/naveenkm21/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naveenkm21&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/naveenkm21/naveenkm21.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naveenkm21&repo=naveenkm21.github.io&theme=buefy" />
-</a>
 
 
