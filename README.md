@@ -1,4 +1,4 @@
-<p align="center"><a href="https://naveenkm21.github.io"><img width="80%" alt="Hello, I'm Naveen. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<h1 align="center">Hi 👋, I'm Naveen Kumar Mohanarajan</h1>
 
 <br />
 
