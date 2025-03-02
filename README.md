@@ -9,7 +9,7 @@
 - 📌 2nd-year Computer Science and Engineering student at SRM Institute of Science and Technology  
 - 📱 Currently learning **Android Basics with Jetpack Compose** to build intuitive and dynamic user interfaces  
 - 💡 Interested in **Java, C++, Python, database management, and innovative tech solutions**  
-- 💬 Ask me about anything [here](https://github.com/naveenkm21/naveenkm21/issues)  
+- 💬 Ask me about anything [here](https://github.com/naveenkm21/naveenkm21/issues)
 
 ---
 
