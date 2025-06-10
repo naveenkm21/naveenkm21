@@ -42,6 +42,13 @@
 
 ---
 
+
+## 📊 GitHub Stats  
+[![naveenkmoh's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=naveenkmoh&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+
+---
+
+
 ## ✍️ Random Dev Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" />
