@@ -43,8 +43,10 @@
 ---
 
 
-## 📊 GitHub Stats  
+## 📊 LeetCode Stats  
+<p align="center">
 [![naveenkmoh's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=naveenkmoh&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+</p>
 
 ---
 
