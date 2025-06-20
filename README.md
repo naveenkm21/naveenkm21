@@ -35,7 +35,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naveenkm21&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=naveenkm21&theme=dark" />
+  <img src="https://camo.githubusercontent.com/289ccbe06ca558d3754fa65d976a30c6ab3a00bab60a7d118af4b06b726fef27/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d6e617665656e6b6d3231267468656d653d6461726b29" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkm21&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
