@@ -35,7 +35,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naveenkm21&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" />
   <br />
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naveenkm21&theme=dark)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=naveenkm21&theme=dark)" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkm21&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
