@@ -68,12 +68,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=naveenkm21&icon=7&color=1" />
-  
-</p>
-
----
-
-<p align="center">
   <img src="https://github.com/naveenkm21/naveenkm21/blob/output/github-snake-dark.svg" />
 </p>
