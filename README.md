@@ -56,8 +56,10 @@
 ## 📊 Favoraite Repos  
 <p align="center">
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=naveenkm21&repo=LeetCode_DSA)](https://github.com/naveenkm21/LeetCode_DSa)
+ 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=naveenkm21&repo=fitness-ai-app)](https://github.com/naveenkm21/fitness-ai-app)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=naveenkm21&repo=UnscambleApp)](https://github.com/naveenkm21/UnscrambleApp)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=naveenkm21&repo=LeetCode_DSA)](https://github.com/naveenkm21/LeetCode_DSA)
 
 </p>
 
