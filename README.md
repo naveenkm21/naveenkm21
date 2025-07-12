@@ -57,6 +57,7 @@
 <p align="center">
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=naveenkm21&repo=LeetCode_DSA)](https://github.com/naveenkm21/LeetCode_DSA)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=naveenkm21&repo=fitness-ai-app)](https://github.com/naveenkm21/fitness-ai-app)
 
 </p>
 
