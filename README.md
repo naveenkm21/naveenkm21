@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkm21&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkm21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenkm21" alt="naveenkm21" /></a> </p>
-
 ---
 
 ## 🚀 About Me  
@@ -19,28 +17,25 @@
 
 ---
 
-## 💻 Tech Stack  
-<p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
-</p>
+
+<div align="left">
+  <h2>Languages, Frameworks & Tools</h2>
+  <img src="https://skillicons.dev/icons?i=git,github,nodejs,html,css,tailwind,js,ts,react,nextjs,java,c,cpp,py,express,mongodb,firebase,supabase,postgres,figma,ubuntu,autocad,mysql,spring,postman,androidstudio,eclipse,docker,graphql,aws,bash,gcp,kubernetes,docker" alt="skills logos" />
+</div>
+
+###
+
+## 📊 GitHub Stats 
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://gitmystat.vercel.app/user?theme=stealth&username=naveenkm21" alt="naveenkm21" height="200" />
+    <img src="https://github-trophies.vercel.app/?username=naveenkm21&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="naveenkm21" height="200" />
+</div>
+
+###
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveenkm21&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" />
-  <br />
+ 
   <img src="https://camo.githubusercontent.com/289ccbe06ca558d3754fa65d976a30c6ab3a00bab60a7d118af4b06b726fef27/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d6e617665656e6b6d3231267468656d653d6461726b29" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkm21&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
