@@ -20,7 +20,6 @@
 ---
 ### 👨‍💻 `User.getProfile("naveenkm21")`
 
-```typescript
 const naveen = {
     name: "Naveen Kumar Mohanarajan",
     location: "Chennai, India 🇮🇳",
@@ -35,3 +34,5 @@ const naveen = {
     },
     interests: ["Scalable Systems", "DevOps", "Mobile UI/UX", "AI/ML"]
 };
+
+
