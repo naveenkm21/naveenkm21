@@ -18,6 +18,20 @@
 <img src="https://komarev.com/ghpvc/?username=naveenkm21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 ---
+### 👨‍💻 `User.getProfile("naveenkm21")`
 
-## 👨‍💻 About Me
-
+```typescript
+const naveen = {
+    name: "Naveen Kumar Mohanarajan",
+    location: "Chennai, India 🇮🇳",
+    education: {
+        degree: "B.Tech CSE (3rd Year)",
+        university: "SRM Institute of Science and Technology"
+    },
+    focus: ["Full-Stack Development", "Android Development", "Machine Learning"],
+    technologies: {
+        current: ["TypeScript", "Kotlin", "React", "Spring Boot", "PostgreSQL"],
+        learning: ["Jetpack Compose", "Supabase", "Cloud Architecture", "DSA"]
+    },
+    interests: ["Scalable Systems", "DevOps", "Mobile UI/UX", "AI/ML"]
+};
