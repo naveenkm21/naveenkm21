@@ -102,7 +102,7 @@ const naveen = {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naveenkm21&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  ![naveenkm21 trophies](https://github-profile-trophy.vercel.app/?username=naveenkm21&theme=flat&row=1&column=6)
 </div>
 
 ---
