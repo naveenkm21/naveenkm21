@@ -1,0 +1,8 @@
+.venv/
+.claude/
+__pycache__/
+*.pyc
+# portrait working files (keep source-prepped.png only if you want it tracked)
+_cut.png
+source-photo.*
+_preview.html

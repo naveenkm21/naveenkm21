@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="354" viewBox="0 0 490 354" role="img" aria-label="neofetch-style info card">
+  <style>
+    text { font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+    .t   { fill:#58a6ff; font-size:15px; font-weight:700; }
+    .rule{ fill:#7d8590; font-size:13px; letter-spacing:0px; }
+    .k   { fill:#39d353; font-size:13px; font-weight:600; }
+    .v   { fill:#c9d1d9; font-size:13px; }
+    .d   { fill:#7d8590; font-size:13px; }
+    .ln  { opacity:0; transform:translateX(-8px);
+            animation:in .5s ease-out forwards; }
+    @keyframes in { to { opacity:1; transform:translateX(0); } }
+    @media (prefers-reduced-motion: reduce) {
+      .ln { animation:none; opacity:1; transform:none; }
+    }
+  </style>
+  <rect x="1" y="1" width="488" height="352" rx="10"
+        fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <g class="ln" style="animation-delay:0.05s"><text x="22" y="40" class="t">naveen@github</text><text x="131" y="40" class="d"> </text><text x="22" y="48" class="rule">----------------------------------------------------------</text></g>
+  <g class="ln" style="animation-delay:0.15s"><text x="22" y="74" class="k">OS</text><text x="120" y="74" class="d">:</text><text x="132" y="74" class="v">Full-Stack + Android Dev</text></g>
+<g class="ln" style="animation-delay:0.29s"><text x="22" y="96" class="k">Host</text><text x="120" y="96" class="d">:</text><text x="132" y="96" class="v">Chennai, India</text></g>
+<g class="ln" style="animation-delay:0.43s"><text x="22" y="118" class="k">Uptime</text><text x="120" y="118" class="d">:</text><text x="132" y="118" class="v">B.Tech CSE @ SRM (in progress)</text></g>
+<g class="ln" style="animation-delay:0.57s"><text x="22" y="140" class="k">Now</text><text x="120" y="140" class="d">:</text><text x="132" y="140" class="v">Android + Jetpack Compose, ML</text></g>
+<g class="ln" style="animation-delay:0.71s"><text x="22" y="162" class="k">Prev</text><text x="120" y="162" class="d">:</text><text x="132" y="162" class="v">Spring Boot APIs, React web apps</text></g>
+<g class="ln" style="animation-delay:0.85s"><text x="22" y="184" class="k">Stack</text><text x="120" y="184" class="d">:</text><text x="132" y="184" class="v">TypeScript · Kotlin · React · Spring</text></g>
+<g class="ln" style="animation-delay:0.99s"><text x="22" y="206" class="k">DB</text><text x="120" y="206" class="d">:</text><text x="132" y="206" class="v">PostgreSQL · Supabase</text></g>
+<g class="ln" style="animation-delay:1.13s"><text x="22" y="228" class="k">Learning</text><text x="120" y="228" class="d">:</text><text x="132" y="228" class="v">System design · Cloud · DSA</text></g>
+<g class="ln" style="animation-delay:1.27s"><text x="22" y="250" class="k">Highlights</text><text x="120" y="250" class="d">:</text><text x="132" y="250" class="v">EstateHub · Fitness Tracker · Stock ML</text></g>
+<g class="ln" style="animation-delay:1.41s"><text x="22" y="272" class="k">Motto</text><text x="120" y="272" class="d">:</text><text x="132" y="272" class="v">Code. Build. Break. Improve. Repeat.</text></g>
+  <g class="ln" style="animation-delay:1.55s"><rect x="22" y="302" width="16" height="16" rx="2" fill="#161b22"/><rect x="44" y="302" width="16" height="16" rx="2" fill="#f85149"/><rect x="66" y="302" width="16" height="16" rx="2" fill="#39d353"/><rect x="88" y="302" width="16" height="16" rx="2" fill="#e3b341"/><rect x="110" y="302" width="16" height="16" rx="2" fill="#58a6ff"/><rect x="132" y="302" width="16" height="16" rx="2" fill="#bc8cff"/><rect x="154" y="302" width="16" height="16" rx="2" fill="#39c5cf"/><rect x="176" y="302" width="16" height="16" rx="2" fill="#c9d1d9"/></g>
+</svg>
