@@ -1,160 +1,154 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="420" viewBox="0 0 500 420" role="img" aria-label="ASCII portrait">
+<svg xmlns="http://www.w3.org/2000/svg" width="447" height="420" viewBox="0 0 447 420" role="img" aria-label="ASCII portrait">
   <defs>
-<clipPath id="clip0"><rect x="10" y="6.0" width="0" height="10.0"><animate attributeName="width" from="0" to="268.8" begin="0.00s" dur="0.56s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip1"><rect x="10" y="14.0" width="0" height="10.0"><animate attributeName="width" from="0" to="288.0" begin="0.10s" dur="0.60s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip2"><rect x="10" y="22.0" width="0" height="10.0"><animate attributeName="width" from="0" to="297.6" begin="0.20s" dur="0.62s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip3"><rect x="10" y="30.0" width="0" height="10.0"><animate attributeName="width" from="0" to="307.2" begin="0.30s" dur="0.64s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip4"><rect x="10" y="38.0" width="0" height="10.0"><animate attributeName="width" from="0" to="316.8" begin="0.40s" dur="0.66s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip5"><rect x="10" y="46.0" width="0" height="10.0"><animate attributeName="width" from="0" to="316.8" begin="0.50s" dur="0.66s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip6"><rect x="10" y="54.0" width="0" height="10.0"><animate attributeName="width" from="0" to="316.8" begin="0.60s" dur="0.66s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip7"><rect x="10" y="62.0" width="0" height="10.0"><animate attributeName="width" from="0" to="316.8" begin="0.70s" dur="0.66s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip8"><rect x="10" y="70.0" width="0" height="10.0"><animate attributeName="width" from="0" to="316.8" begin="0.80s" dur="0.66s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip9"><rect x="10" y="78.0" width="0" height="10.0"><animate attributeName="width" from="0" to="316.8" begin="0.90s" dur="0.66s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip10"><rect x="10" y="86.0" width="0" height="10.0"><animate attributeName="width" from="0" to="316.8" begin="1.00s" dur="0.66s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip11"><rect x="10" y="94.0" width="0" height="10.0"><animate attributeName="width" from="0" to="316.8" begin="1.10s" dur="0.66s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip12"><rect x="10" y="102.0" width="0" height="10.0"><animate attributeName="width" from="0" to="316.8" begin="1.20s" dur="0.66s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip13"><rect x="10" y="110.0" width="0" height="10.0"><animate attributeName="width" from="0" to="312.0" begin="1.30s" dur="0.65s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip14"><rect x="10" y="118.0" width="0" height="10.0"><animate attributeName="width" from="0" to="312.0" begin="1.40s" dur="0.65s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip15"><rect x="10" y="126.0" width="0" height="10.0"><animate attributeName="width" from="0" to="422.4" begin="1.50s" dur="0.88s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip16"><rect x="10" y="134.0" width="0" height="10.0"><animate attributeName="width" from="0" to="408.0" begin="1.60s" dur="0.85s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip17"><rect x="10" y="142.0" width="0" height="10.0"><animate attributeName="width" from="0" to="427.2" begin="1.70s" dur="0.89s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip18"><rect x="10" y="150.0" width="0" height="10.0"><animate attributeName="width" from="0" to="427.2" begin="1.80s" dur="0.89s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip19"><rect x="10" y="158.0" width="0" height="10.0"><animate attributeName="width" from="0" to="432.0" begin="1.90s" dur="0.90s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip20"><rect x="10" y="166.0" width="0" height="10.0"><animate attributeName="width" from="0" to="398.4" begin="2.00s" dur="0.83s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip21"><rect x="10" y="174.0" width="0" height="10.0"><animate attributeName="width" from="0" to="403.2" begin="2.10s" dur="0.84s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip22"><rect x="10" y="182.0" width="0" height="10.0"><animate attributeName="width" from="0" to="417.6" begin="2.20s" dur="0.87s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip23"><rect x="10" y="190.0" width="0" height="10.0"><animate attributeName="width" from="0" to="408.0" begin="2.30s" dur="0.85s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip24"><rect x="10" y="198.0" width="0" height="10.0"><animate attributeName="width" from="0" to="388.8" begin="2.40s" dur="0.81s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip25"><rect x="10" y="206.0" width="0" height="10.0"><animate attributeName="width" from="0" to="398.4" begin="2.50s" dur="0.83s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip26"><rect x="10" y="214.0" width="0" height="10.0"><animate attributeName="width" from="0" to="417.6" begin="2.60s" dur="0.87s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip27"><rect x="10" y="222.0" width="0" height="10.0"><animate attributeName="width" from="0" to="441.6" begin="2.70s" dur="0.92s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip28"><rect x="10" y="230.0" width="0" height="10.0"><animate attributeName="width" from="0" to="460.8" begin="2.80s" dur="0.96s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip29"><rect x="10" y="238.0" width="0" height="10.0"><animate attributeName="width" from="0" to="456.0" begin="2.90s" dur="0.95s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip30"><rect x="10" y="246.0" width="0" height="10.0"><animate attributeName="width" from="0" to="460.8" begin="3.00s" dur="0.96s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip31"><rect x="10" y="254.0" width="0" height="10.0"><animate attributeName="width" from="0" to="470.4" begin="3.10s" dur="0.98s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip32"><rect x="10" y="262.0" width="0" height="10.0"><animate attributeName="width" from="0" to="470.4" begin="3.20s" dur="0.98s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip33"><rect x="10" y="270.0" width="0" height="10.0"><animate attributeName="width" from="0" to="475.2" begin="3.30s" dur="0.99s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip34"><rect x="10" y="278.0" width="0" height="10.0"><animate attributeName="width" from="0" to="480.0" begin="3.40s" dur="1.00s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip35"><rect x="10" y="286.0" width="0" height="10.0"><animate attributeName="width" from="0" to="480.0" begin="3.50s" dur="1.00s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip36"><rect x="10" y="294.0" width="0" height="10.0"><animate attributeName="width" from="0" to="480.0" begin="3.60s" dur="1.00s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip37"><rect x="10" y="302.0" width="0" height="10.0"><animate attributeName="width" from="0" to="480.0" begin="3.70s" dur="1.00s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip38"><rect x="10" y="310.0" width="0" height="10.0"><animate attributeName="width" from="0" to="480.0" begin="3.80s" dur="1.00s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip39"><rect x="10" y="318.0" width="0" height="10.0"><animate attributeName="width" from="0" to="480.0" begin="3.90s" dur="1.00s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip40"><rect x="10" y="326.0" width="0" height="10.0"><animate attributeName="width" from="0" to="480.0" begin="4.00s" dur="1.00s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip41"><rect x="10" y="334.0" width="0" height="10.0"><animate attributeName="width" from="0" to="480.0" begin="4.10s" dur="1.00s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip42"><rect x="10" y="342.0" width="0" height="10.0"><animate attributeName="width" from="0" to="480.0" begin="4.20s" dur="1.00s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip43"><rect x="10" y="350.0" width="0" height="10.0"><animate attributeName="width" from="0" to="480.0" begin="4.30s" dur="1.00s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip44"><rect x="10" y="358.0" width="0" height="10.0"><animate attributeName="width" from="0" to="480.0" begin="4.40s" dur="1.00s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip45"><rect x="10" y="366.0" width="0" height="10.0"><animate attributeName="width" from="0" to="480.0" begin="4.50s" dur="1.00s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip46"><rect x="10" y="374.0" width="0" height="10.0"><animate attributeName="width" from="0" to="475.2" begin="4.60s" dur="0.99s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip47"><rect x="10" y="382.0" width="0" height="10.0"><animate attributeName="width" from="0" to="475.2" begin="4.70s" dur="0.99s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip48"><rect x="10" y="390.0" width="0" height="10.0"><animate attributeName="width" from="0" to="480.0" begin="4.80s" dur="1.00s" fill="freeze"/></rect></clipPath>
-<clipPath id="clip49"><rect x="10" y="398.0" width="0" height="10.0"><animate attributeName="width" from="0" to="480.0" begin="4.90s" dur="1.00s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip2"><rect x="10" y="22.0" width="0" height="10.0"><animate attributeName="width" from="0" to="249.6" begin="0.20s" dur="0.52s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip3"><rect x="10" y="30.0" width="0" height="10.0"><animate attributeName="width" from="0" to="273.6" begin="0.30s" dur="0.57s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip4"><rect x="10" y="38.0" width="0" height="10.0"><animate attributeName="width" from="0" to="283.2" begin="0.40s" dur="0.59s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip5"><rect x="10" y="46.0" width="0" height="10.0"><animate attributeName="width" from="0" to="292.8" begin="0.50s" dur="0.61s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip6"><rect x="10" y="54.0" width="0" height="10.0"><animate attributeName="width" from="0" to="297.6" begin="0.60s" dur="0.62s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip7"><rect x="10" y="62.0" width="0" height="10.0"><animate attributeName="width" from="0" to="297.6" begin="0.70s" dur="0.62s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip8"><rect x="10" y="70.0" width="0" height="10.0"><animate attributeName="width" from="0" to="297.6" begin="0.80s" dur="0.62s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip9"><rect x="10" y="78.0" width="0" height="10.0"><animate attributeName="width" from="0" to="297.6" begin="0.90s" dur="0.62s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip10"><rect x="10" y="86.0" width="0" height="10.0"><animate attributeName="width" from="0" to="292.8" begin="1.00s" dur="0.61s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip11"><rect x="10" y="94.0" width="0" height="10.0"><animate attributeName="width" from="0" to="288.0" begin="1.10s" dur="0.60s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip12"><rect x="10" y="102.0" width="0" height="10.0"><animate attributeName="width" from="0" to="288.0" begin="1.20s" dur="0.60s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip13"><rect x="10" y="110.0" width="0" height="10.0"><animate attributeName="width" from="0" to="283.2" begin="1.30s" dur="0.59s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip14"><rect x="10" y="118.0" width="0" height="10.0"><animate attributeName="width" from="0" to="283.2" begin="1.40s" dur="0.59s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip15"><rect x="10" y="126.0" width="0" height="10.0"><animate attributeName="width" from="0" to="278.4" begin="1.50s" dur="0.58s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip16"><rect x="10" y="134.0" width="0" height="10.0"><animate attributeName="width" from="0" to="268.8" begin="1.60s" dur="0.56s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip17"><rect x="10" y="142.0" width="0" height="10.0"><animate attributeName="width" from="0" to="278.4" begin="1.70s" dur="0.58s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip18"><rect x="10" y="150.0" width="0" height="10.0"><animate attributeName="width" from="0" to="283.2" begin="1.80s" dur="0.59s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip19"><rect x="10" y="158.0" width="0" height="10.0"><animate attributeName="width" from="0" to="302.4" begin="1.90s" dur="0.63s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip20"><rect x="10" y="166.0" width="0" height="10.0"><animate attributeName="width" from="0" to="326.4" begin="2.00s" dur="0.68s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip21"><rect x="10" y="174.0" width="0" height="10.0"><animate attributeName="width" from="0" to="345.6" begin="2.10s" dur="0.72s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip22"><rect x="10" y="182.0" width="0" height="10.0"><animate attributeName="width" from="0" to="355.2" begin="2.20s" dur="0.74s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip23"><rect x="10" y="190.0" width="0" height="10.0"><animate attributeName="width" from="0" to="364.8" begin="2.30s" dur="0.76s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip24"><rect x="10" y="198.0" width="0" height="10.0"><animate attributeName="width" from="0" to="374.4" begin="2.40s" dur="0.78s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip25"><rect x="10" y="206.0" width="0" height="10.0"><animate attributeName="width" from="0" to="379.2" begin="2.50s" dur="0.79s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip26"><rect x="10" y="214.0" width="0" height="10.0"><animate attributeName="width" from="0" to="384.0" begin="2.60s" dur="0.80s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip27"><rect x="10" y="222.0" width="0" height="10.0"><animate attributeName="width" from="0" to="388.8" begin="2.70s" dur="0.81s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip28"><rect x="10" y="230.0" width="0" height="10.0"><animate attributeName="width" from="0" to="388.8" begin="2.80s" dur="0.81s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip29"><rect x="10" y="238.0" width="0" height="10.0"><animate attributeName="width" from="0" to="393.6" begin="2.90s" dur="0.82s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip30"><rect x="10" y="246.0" width="0" height="10.0"><animate attributeName="width" from="0" to="398.4" begin="3.00s" dur="0.83s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip31"><rect x="10" y="254.0" width="0" height="10.0"><animate attributeName="width" from="0" to="398.4" begin="3.10s" dur="0.83s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip32"><rect x="10" y="262.0" width="0" height="10.0"><animate attributeName="width" from="0" to="403.2" begin="3.20s" dur="0.84s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip33"><rect x="10" y="270.0" width="0" height="10.0"><animate attributeName="width" from="0" to="408.0" begin="3.30s" dur="0.85s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip34"><rect x="10" y="278.0" width="0" height="10.0"><animate attributeName="width" from="0" to="412.8" begin="3.40s" dur="0.86s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip35"><rect x="10" y="286.0" width="0" height="10.0"><animate attributeName="width" from="0" to="412.8" begin="3.50s" dur="0.86s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip36"><rect x="10" y="294.0" width="0" height="10.0"><animate attributeName="width" from="0" to="417.6" begin="3.60s" dur="0.87s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip37"><rect x="10" y="302.0" width="0" height="10.0"><animate attributeName="width" from="0" to="422.4" begin="3.70s" dur="0.88s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip38"><rect x="10" y="310.0" width="0" height="10.0"><animate attributeName="width" from="0" to="427.2" begin="3.80s" dur="0.89s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip39"><rect x="10" y="318.0" width="0" height="10.0"><animate attributeName="width" from="0" to="427.2" begin="3.90s" dur="0.89s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip40"><rect x="10" y="326.0" width="0" height="10.0"><animate attributeName="width" from="0" to="417.6" begin="4.00s" dur="0.87s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip41"><rect x="10" y="334.0" width="0" height="10.0"><animate attributeName="width" from="0" to="408.0" begin="4.10s" dur="0.85s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip42"><rect x="10" y="342.0" width="0" height="10.0"><animate attributeName="width" from="0" to="408.0" begin="4.20s" dur="0.85s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip43"><rect x="10" y="350.0" width="0" height="10.0"><animate attributeName="width" from="0" to="408.0" begin="4.30s" dur="0.85s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip44"><rect x="10" y="358.0" width="0" height="10.0"><animate attributeName="width" from="0" to="408.0" begin="4.40s" dur="0.85s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip45"><rect x="10" y="366.0" width="0" height="10.0"><animate attributeName="width" from="0" to="408.0" begin="4.50s" dur="0.85s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip46"><rect x="10" y="374.0" width="0" height="10.0"><animate attributeName="width" from="0" to="403.2" begin="4.60s" dur="0.84s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip47"><rect x="10" y="382.0" width="0" height="10.0"><animate attributeName="width" from="0" to="403.2" begin="4.70s" dur="0.84s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip48"><rect x="10" y="390.0" width="0" height="10.0"><animate attributeName="width" from="0" to="398.4" begin="4.80s" dur="0.83s" fill="freeze"/></rect></clipPath>
+<clipPath id="clip49"><rect x="10" y="398.0" width="0" height="10.0"><animate attributeName="width" from="0" to="398.4" begin="4.90s" dur="0.83s" fill="freeze"/></rect></clipPath>
   </defs>
   <style>
     text { font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size:8px; fill:#b9c2cc;
             white-space:pre; letter-spacing:0; }
     .cur { fill:#39d353; }
   </style>
-  <rect x="0" y="0" width="500" height="420" rx="8" fill="#0d1117"/>
-  <text x="10" y="14.0" clip-path="url(#clip0)" xml:space="preserve">                                                 .:. ...</text>
-<text x="10" y="22.0" clip-path="url(#clip1)" xml:space="preserve">                                            .........`:-=:``</text>
-<text x="10" y="30.0" clip-path="url(#clip2)" xml:space="preserve">                                         .```             .`::</text>
-<text x="10" y="38.0" clip-path="url(#clip3)" xml:space="preserve">                                       .`.       .`.         `-:</text>
-<text x="10" y="46.0" clip-path="url(#clip4)" xml:space="preserve">                                      ` .  .....   .           `:.</text>
-<text x="10" y="54.0" clip-path="url(#clip5)" xml:space="preserve">                                     `  `:         .        ..  `+</text>
-<text x="10" y="62.0" clip-path="url(#clip6)" xml:space="preserve">                                    `. ..`.:-`.:--:=.       . .  -</text>
-<text x="10" y="70.0" clip-path="url(#clip7)" xml:space="preserve">                                    ` :` .*s#s####s*:`+*+=..  .: `</text>
-<text x="10" y="78.0" clip-path="url(#clip8)" xml:space="preserve">                                    ` s= -###ssssssssccsss**: -#.`</text>
-<text x="10" y="86.0" clip-path="url(#clip9)" xml:space="preserve">                                    `:+s=+csssssssss##sssss#c=s*`.</text>
-<text x="10" y="94.0" clip-path="url(#clip10)" xml:space="preserve">                                    `:=c##s#ssssssssssss###ss#c:``</text>
-<text x="10" y="102.0" clip-path="url(#clip11)" xml:space="preserve">                                    `:s`=css#ss#sss######sssc=`c``</text>
-<text x="10" y="110.0" clip-path="url(#clip12)" xml:space="preserve">                                    `:s` .-c############s#s=. .c.`</text>
-<text x="10" y="118.0" clip-path="url(#clip13)" xml:space="preserve">                                    .:++    =s##########s+.   =+.</text>
-<text x="10" y="126.0" clip-path="url(#clip14)" xml:space="preserve">                                     :`s-    .*########*`    :c.`</text>
-<text x="10" y="134.0" clip-path="url(#clip15)" xml:space="preserve">                                     `-`**`.  .+######=    .=+...                    ...</text>
-<text x="10" y="142.0" clip-path="url(#clip16)" xml:space="preserve">                                    `-+..c#sccs#######sc*+*s*  `                   ..</text>
-<text x="10" y="150.0" clip-path="url(#clip17)" xml:space="preserve">                                  `++-:-=*#################c. `                        ..</text>
-<text x="10" y="158.0" clip-path="url(#clip18)" xml:space="preserve">                                `+*-. `=+*################*`  `             .        `:`.</text>
-<text x="10" y="166.0" clip-path="url(#clip19)" xml:space="preserve">                   .:==-:`....`=**=-=+c``cs##############c: - ``      ....`.    ..`==:.  .</text>
-<text x="10" y="174.0" clip-path="url(#clip20)" xml:space="preserve">                 -*s#####sscc=`.`++***- .s###############=`*=  -----=+=-=-:`::::`..</text>
-<text x="10" y="182.0" clip-path="url(#clip21)" xml:space="preserve">               `*##ss#sssssc=-=**cc*=`  -s#############s=*#%-   .:=+*+`..`==:.   ...</text>
-<text x="10" y="190.0" clip-path="url(#clip22)" xml:space="preserve">              `*#sss*ccccssccssc=:`  ---#ss############cs###*-:-: .:=*-. .=-:``-++=:::.</text>
-<text x="10" y="198.0" clip-path="url(#clip23)" xml:space="preserve">             .:cccsssss#sc***+-`   :c#s##cs################ssss##c:  .`.`-:`--``:`==`</text>
-<text x="10" y="206.0" clip-path="url(#clip24)" xml:space="preserve">           `=*+sss#sss*-::--.  `=+*ss###==#################s###scssc=`  .` :--:`.</text>
-<text x="10" y="214.0" clip-path="url(#clip25)" xml:space="preserve">        .=*+csscsssc+:.   `---*sssscc**-.*###################sc*=*s###c+-```.:--::`</text>
-<text x="10" y="222.0" clip-path="url(#clip26)" xml:space="preserve">       `cs-=s##s+=-.     :=+*+*=-:.   ...`-*################+:.  `:-=*c=*=*=:.`:-==---.</text>
-<text x="10" y="230.0" clip-path="url(#clip27)" xml:space="preserve">      =s#+:==-:`       .`:`-=`:    .`:`::=+s################* ...     ``-:.....``:::-==-==:.</text>
-<text x="10" y="238.0" clip-path="url(#clip28)" xml:space="preserve">    .=*=`          .`::=c*++=`    .:::***cs################c:``       .:=++=```.``::::``:-=+=:`.</text>
-<text x="10" y="246.0" clip-path="url(#clip29)" xml:space="preserve">   `-:     .:-:.    .`-++=+=.   .``.  *ccs#################*+*. .``.. .:+++*c*::```````:::`:--:</text>
-<text x="10" y="254.0" clip-path="url(#clip30)" xml:space="preserve">  `:.    `*=:   .:=cc*+=`..`-=+-::-=-..*c***ccs#############*` -+-::::``....-*cccc**c*+**=-::--:</text>
-<text x="10" y="262.0" clip-path="url(#clip31)" xml:space="preserve"> ..    .+s- .-::+ssc*+-``:*ccc-:::-:-=:.``   .`*#ss#c-s##s*-.:c#sc+++=: -c==--+csccc**ccc**+-:::-.</text>
-<text x="10" y="270.0" clip-path="url(#clip32)" xml:space="preserve">`.... -s#:.=cscssccc*+`.:++=-`..  .:::-+==-:`:...  ...====+*s##s+`  ..::+cc#%###sscc++++*****:=-::</text>
-<text x="10" y="278.0" clip-path="url(#clip33)" xml:space="preserve"> .`=-*ssc*s#ss##scc+:. .:.  .````:-:``:-==+=-`.   ....`-=====-:``-+c*+:`. .:=*ss*+sc*+==++****+*-:`</text>
-<text x="10" y="286.0" clip-path="url(#clip34)" xml:space="preserve">  =*+#sssssssssc**`      `=c#ssccs##sc*+===-:`-:`-------=====+*cssssss##c+::`.`.  =c*+=+++****csc:..</text>
-<text x="10" y="294.0" clip-path="url(#clip35)" xml:space="preserve">`-c=sscssssssssss*+-`.:+c###c++cc*=---=*c*+=++--------=+==+*+----=+**==*s##sc+:.`=-:::-=+++***cs%*::</text>
-<text x="10" y="302.0" clip-path="url(#clip36)" xml:space="preserve">*cccsssssssssssssssscccssc=::----=+cssc+==*sc+--------=*c+==+csc+=:::-:.:+c##s*==-```:--=+*++*ssssc=</text>
-<text x="10" y="310.0" clip-path="url(#clip37)" xml:space="preserve">ccsssssssssssssssssssss*=::-+s#ss##c=--=*cc===----------=**+=--+c##sss***c**sc-..````::::-=*+*csss#*</text>
-<text x="10" y="318.0" clip-path="url(#clip38)" xml:space="preserve">s#ss#ssssssssssssssss##s+-+s##sc+=-:=*c**s=-:---------:::=****+=:-=+c*+*ccss*=-``.`::::::::-+*cs##%c</text>
-<text x="10" y="326.0" clip-path="url(#clip39)" xml:space="preserve">s#####ssssssssssss##sc##-*##*--=+++cccccs#=::::::::::::::+cc*cccc+-:::+sssccc*c=..`:--------=*c##%%s</text>
-<text x="10" y="334.0" clip-path="url(#clip40)" xml:space="preserve">c######ssssssssss###+=c#+s##+:-+cccccccss#+-::::::::::::-cscsscccc*:::=ssssss#s+..::------=+*+*c#%%*</text>
-<text x="10" y="342.0" clip-path="url(#clip41)" xml:space="preserve">+ssss##ssssssss#####s*+c####s:::-+***ccss#c----::::::--*cssssssccs*-==c####c*+==.`-==---==+*cccs##s-</text>
-<text x="10" y="350.0" clip-path="url(#clip42)" xml:space="preserve">c####sscsssssss#####css######+:::++*ccccccs****=--:::--+c#ssssssss=::-#####++-+-`-=++===++**cccccc+=</text>
-<text x="10" y="358.0" clip-path="url(#clip43)" xml:space="preserve">csss#cc*###ssssss#s#s**+s#####+::+**ccssccss=:-::::::-:+c#s###ssss-::*###%c--=*--==++==++**+*++*c+--</text>
-<text x="10" y="366.0" clip-path="url(#clip44)" xml:space="preserve">cssssccc######sss####+-:=######c****csssscss+:-:::::--=c#ss###ssss+=+s####=:-*+---==+===++++++***=`.</text>
-<text x="10" y="374.0" clip-path="url(#clip45)" xml:space="preserve">s###sssss##s##sss##s#c:::s#####scccccssssss##=:-::::=-*#sss###ssss+=+####s--=*-:::-=+++++**+=*c**+..</text>
-<text x="10" y="382.0" clip-path="url(#clip46)" xml:space="preserve">c##scssssssssss####ss#+::*%####=:=cccsssssss#s-:---::=ssssss#sss#c::c###%+-+c=``:-=+*ccccccc**cc*s:</text>
-<text x="10" y="390.0" clip-path="url(#clip47)" xml:space="preserve">ssscc#sssssssss########*=-####%*:-***csssssss#c-*+*+-sssssssssss#*:-s##%s-=++::--=+*ccsssssc*=*c=c*</text>
-<text x="10" y="398.0" clip-path="url(#clip48)" xml:space="preserve">sss*s#sss##############s++s#####*:+**csss###sssc*+*ccssssss#sscs#==*###%*-=*-`:---=+*cs##ssc*==c---.</text>
-<text x="10" y="406.0" clip-path="url(#clip49)" xml:space="preserve">csss#ssss###########ssssc-+######+=**ccssssscccsc**csscccssssccsc-c####s-=+-......`:-+**cc*+-::-:`..</text>
-  <rect class="cur" x="10" y="7.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="278.8" begin="0.00s" dur="0.56s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.00s"/><set attributeName="opacity" to="0" begin="0.56s"/></rect>
-<rect class="cur" x="10" y="15.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="298.0" begin="0.10s" dur="0.60s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.10s"/><set attributeName="opacity" to="0" begin="0.70s"/></rect>
-<rect class="cur" x="10" y="23.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="307.6" begin="0.20s" dur="0.62s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.20s"/><set attributeName="opacity" to="0" begin="0.82s"/></rect>
-<rect class="cur" x="10" y="31.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="317.2" begin="0.30s" dur="0.64s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.30s"/><set attributeName="opacity" to="0" begin="0.94s"/></rect>
-<rect class="cur" x="10" y="39.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="326.8" begin="0.40s" dur="0.66s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.40s"/><set attributeName="opacity" to="0" begin="1.06s"/></rect>
-<rect class="cur" x="10" y="47.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="326.8" begin="0.50s" dur="0.66s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.50s"/><set attributeName="opacity" to="0" begin="1.16s"/></rect>
-<rect class="cur" x="10" y="55.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="326.8" begin="0.60s" dur="0.66s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.60s"/><set attributeName="opacity" to="0" begin="1.26s"/></rect>
-<rect class="cur" x="10" y="63.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="326.8" begin="0.70s" dur="0.66s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.70s"/><set attributeName="opacity" to="0" begin="1.36s"/></rect>
-<rect class="cur" x="10" y="71.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="326.8" begin="0.80s" dur="0.66s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.80s"/><set attributeName="opacity" to="0" begin="1.46s"/></rect>
-<rect class="cur" x="10" y="79.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="326.8" begin="0.90s" dur="0.66s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.90s"/><set attributeName="opacity" to="0" begin="1.56s"/></rect>
-<rect class="cur" x="10" y="87.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="326.8" begin="1.00s" dur="0.66s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.00s"/><set attributeName="opacity" to="0" begin="1.66s"/></rect>
-<rect class="cur" x="10" y="95.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="326.8" begin="1.10s" dur="0.66s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.10s"/><set attributeName="opacity" to="0" begin="1.76s"/></rect>
-<rect class="cur" x="10" y="103.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="326.8" begin="1.20s" dur="0.66s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.20s"/><set attributeName="opacity" to="0" begin="1.86s"/></rect>
-<rect class="cur" x="10" y="111.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="322.0" begin="1.30s" dur="0.65s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.30s"/><set attributeName="opacity" to="0" begin="1.95s"/></rect>
-<rect class="cur" x="10" y="119.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="322.0" begin="1.40s" dur="0.65s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.40s"/><set attributeName="opacity" to="0" begin="2.05s"/></rect>
-<rect class="cur" x="10" y="127.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="432.4" begin="1.50s" dur="0.88s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.50s"/><set attributeName="opacity" to="0" begin="2.38s"/></rect>
-<rect class="cur" x="10" y="135.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="418.0" begin="1.60s" dur="0.85s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.60s"/><set attributeName="opacity" to="0" begin="2.45s"/></rect>
-<rect class="cur" x="10" y="143.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="437.2" begin="1.70s" dur="0.89s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.70s"/><set attributeName="opacity" to="0" begin="2.59s"/></rect>
-<rect class="cur" x="10" y="151.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="437.2" begin="1.80s" dur="0.89s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.80s"/><set attributeName="opacity" to="0" begin="2.69s"/></rect>
-<rect class="cur" x="10" y="159.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="442.0" begin="1.90s" dur="0.90s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.90s"/><set attributeName="opacity" to="0" begin="2.80s"/></rect>
-<rect class="cur" x="10" y="167.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="408.4" begin="2.00s" dur="0.83s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.00s"/><set attributeName="opacity" to="0" begin="2.83s"/></rect>
-<rect class="cur" x="10" y="175.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="413.2" begin="2.10s" dur="0.84s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.10s"/><set attributeName="opacity" to="0" begin="2.94s"/></rect>
-<rect class="cur" x="10" y="183.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="427.6" begin="2.20s" dur="0.87s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.20s"/><set attributeName="opacity" to="0" begin="3.07s"/></rect>
-<rect class="cur" x="10" y="191.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="418.0" begin="2.30s" dur="0.85s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.30s"/><set attributeName="opacity" to="0" begin="3.15s"/></rect>
-<rect class="cur" x="10" y="199.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="398.8" begin="2.40s" dur="0.81s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.40s"/><set attributeName="opacity" to="0" begin="3.21s"/></rect>
-<rect class="cur" x="10" y="207.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="408.4" begin="2.50s" dur="0.83s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.50s"/><set attributeName="opacity" to="0" begin="3.33s"/></rect>
-<rect class="cur" x="10" y="215.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="427.6" begin="2.60s" dur="0.87s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.60s"/><set attributeName="opacity" to="0" begin="3.47s"/></rect>
-<rect class="cur" x="10" y="223.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="451.6" begin="2.70s" dur="0.92s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.70s"/><set attributeName="opacity" to="0" begin="3.62s"/></rect>
-<rect class="cur" x="10" y="231.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="470.8" begin="2.80s" dur="0.96s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.80s"/><set attributeName="opacity" to="0" begin="3.76s"/></rect>
-<rect class="cur" x="10" y="239.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="466.0" begin="2.90s" dur="0.95s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.90s"/><set attributeName="opacity" to="0" begin="3.85s"/></rect>
-<rect class="cur" x="10" y="247.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="470.8" begin="3.00s" dur="0.96s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.00s"/><set attributeName="opacity" to="0" begin="3.96s"/></rect>
-<rect class="cur" x="10" y="255.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="480.4" begin="3.10s" dur="0.98s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.10s"/><set attributeName="opacity" to="0" begin="4.08s"/></rect>
-<rect class="cur" x="10" y="263.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="480.4" begin="3.20s" dur="0.98s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.20s"/><set attributeName="opacity" to="0" begin="4.18s"/></rect>
-<rect class="cur" x="10" y="271.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="485.2" begin="3.30s" dur="0.99s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.30s"/><set attributeName="opacity" to="0" begin="4.29s"/></rect>
-<rect class="cur" x="10" y="279.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="490.0" begin="3.40s" dur="1.00s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.40s"/><set attributeName="opacity" to="0" begin="4.40s"/></rect>
-<rect class="cur" x="10" y="287.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="490.0" begin="3.50s" dur="1.00s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.50s"/><set attributeName="opacity" to="0" begin="4.50s"/></rect>
-<rect class="cur" x="10" y="295.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="490.0" begin="3.60s" dur="1.00s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.60s"/><set attributeName="opacity" to="0" begin="4.60s"/></rect>
-<rect class="cur" x="10" y="303.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="490.0" begin="3.70s" dur="1.00s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.70s"/><set attributeName="opacity" to="0" begin="4.70s"/></rect>
-<rect class="cur" x="10" y="311.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="490.0" begin="3.80s" dur="1.00s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.80s"/><set attributeName="opacity" to="0" begin="4.80s"/></rect>
-<rect class="cur" x="10" y="319.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="490.0" begin="3.90s" dur="1.00s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.90s"/><set attributeName="opacity" to="0" begin="4.90s"/></rect>
-<rect class="cur" x="10" y="327.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="490.0" begin="4.00s" dur="1.00s" fill="freeze"/><set attributeName="opacity" to="1" begin="4.00s"/><set attributeName="opacity" to="0" begin="5.00s"/></rect>
-<rect class="cur" x="10" y="335.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="490.0" begin="4.10s" dur="1.00s" fill="freeze"/><set attributeName="opacity" to="1" begin="4.10s"/><set attributeName="opacity" to="0" begin="5.10s"/></rect>
-<rect class="cur" x="10" y="343.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="490.0" begin="4.20s" dur="1.00s" fill="freeze"/><set attributeName="opacity" to="1" begin="4.20s"/><set attributeName="opacity" to="0" begin="5.20s"/></rect>
-<rect class="cur" x="10" y="351.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="490.0" begin="4.30s" dur="1.00s" fill="freeze"/><set attributeName="opacity" to="1" begin="4.30s"/><set attributeName="opacity" to="0" begin="5.30s"/></rect>
-<rect class="cur" x="10" y="359.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="490.0" begin="4.40s" dur="1.00s" fill="freeze"/><set attributeName="opacity" to="1" begin="4.40s"/><set attributeName="opacity" to="0" begin="5.40s"/></rect>
-<rect class="cur" x="10" y="367.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="490.0" begin="4.50s" dur="1.00s" fill="freeze"/><set attributeName="opacity" to="1" begin="4.50s"/><set attributeName="opacity" to="0" begin="5.50s"/></rect>
-<rect class="cur" x="10" y="375.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="485.2" begin="4.60s" dur="0.99s" fill="freeze"/><set attributeName="opacity" to="1" begin="4.60s"/><set attributeName="opacity" to="0" begin="5.59s"/></rect>
-<rect class="cur" x="10" y="383.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="485.2" begin="4.70s" dur="0.99s" fill="freeze"/><set attributeName="opacity" to="1" begin="4.70s"/><set attributeName="opacity" to="0" begin="5.69s"/></rect>
-<rect class="cur" x="10" y="391.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="490.0" begin="4.80s" dur="1.00s" fill="freeze"/><set attributeName="opacity" to="1" begin="4.80s"/><set attributeName="opacity" to="0" begin="5.80s"/></rect>
-<rect class="cur" x="10" y="399.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="490.0" begin="4.90s" dur="1.00s" fill="freeze"/><set attributeName="opacity" to="1" begin="4.90s"/><set attributeName="opacity" to="0" begin="5.90s"/></rect>
+  <rect x="0" y="0" width="447" height="420" rx="8" fill="#0d1117"/>
+  <text x="10" y="30.0" clip-path="url(#clip2)" xml:space="preserve">                                          .. .-=--:.</text>
+<text x="10" y="38.0" clip-path="url(#clip3)" xml:space="preserve">                                        .--=+*ccc*cc*=:`.</text>
+<text x="10" y="46.0" clip-path="url(#clip4)" xml:space="preserve">                                     :`.-*ccss#ss#ssss*+==:</text>
+<text x="10" y="54.0" clip-path="url(#clip5)" xml:space="preserve">                                     :+c#%%#scs##%%%%sc++c*=.</text>
+<text x="10" y="62.0" clip-path="url(#clip6)" xml:space="preserve">                                    .=c#%%%%#c++++css##sc*++=.</text>
+<text x="10" y="70.0" clip-path="url(#clip7)" xml:space="preserve">                                    .*s####c+==-:::--=c%#scc*=</text>
+<text x="10" y="78.0" clip-path="url(#clip8)" xml:space="preserve">                                     +##%#*---:``.````:+#%#sc=</text>
+<text x="10" y="86.0" clip-path="url(#clip9)" xml:space="preserve">                                     .s#s*++*--:--::``.`=##s*.</text>
+<text x="10" y="94.0" clip-path="url(#clip10)" xml:space="preserve">                                      +#c+*c###sc+*sccc*++cc`</text>
+<text x="10" y="102.0" clip-path="url(#clip11)" xml:space="preserve">                                      =c*-+cs##s=.:s%##sccs=</text>
+<text x="10" y="110.0" clip-path="url(#clip12)" xml:space="preserve">                                      =c+-::-=+=-``-**+=-=+.</text>
+<text x="10" y="118.0" clip-path="url(#clip13)" xml:space="preserve">                                      -*+==-=++c*+=:--:`:=-</text>
+<text x="10" y="126.0" clip-path="url(#clip14)" xml:space="preserve">                                       `=+++cs*+=--=c*+==-.</text>
+<text x="10" y="134.0" clip-path="url(#clip15)" xml:space="preserve">                                        `++++====-::=*++`.</text>
+<text x="10" y="142.0" clip-path="url(#clip16)" xml:space="preserve">                                        :***+===-:``-++:</text>
+<text x="10" y="150.0" clip-path="url(#clip17)" xml:space="preserve">                                      -#*+ccc****+==+*-*c.</text>
+<text x="10" y="158.0" clip-path="url(#clip18)" xml:space="preserve">                                     -s%c+*css####sc+=`*@c`</text>
+<text x="10" y="166.0" clip-path="url(#clip19)" xml:space="preserve">                                  .:=cc%s*+*ccsssc*=--`-%#-`:`.</text>
+<text x="10" y="174.0" clip-path="url(#clip20)" xml:space="preserve">                              .:=*cscccs#c**+*ccc*==---+##=:=+*+--`.</text>
+<text x="10" y="182.0" clip-path="url(#clip21)" xml:space="preserve">                          .:-+*ccsscccc++**cc++*++=====*#s+`--*s***+=-:`</text>
+<text x="10" y="190.0" clip-path="url(#clip22)" xml:space="preserve">                       `-+*****ccssc**cs*=:-==-----:`.`c#sc=::+ss**cc++=-:</text>
+<text x="10" y="198.0" clip-path="url(#clip23)" xml:space="preserve">                     .=*cc****cc*csccs%%%#*-:``..``. `*##s%%s*+cs=sscc*====`</text>
+<text x="10" y="206.0" clip-path="url(#clip24)" xml:space="preserve">                    :*cccc+****sc*csss####%#s*-.....:ccsscscc*+s*=sc+sc+c+*+-.</text>
+<text x="10" y="214.0" clip-path="url(#clip25)" xml:space="preserve">                   :sscccs*=*c+*c*+****csscs#%%c:..:*c##*+*+==+c+=c*=sc*s+**==`</text>
+<text x="10" y="222.0" clip-path="url(#clip26)" xml:space="preserve">                   ***cccss=+c+=*c=+++=+**c**s##c:-*s#s*++*+==*+=-*==sc*#*cc==+`</text>
+<text x="10" y="230.0" clip-path="url(#clip27)" xml:space="preserve">                  .sc*ccss#==**++c+==--=++*c*+ccsc==scc+==+==+===-+-=sc*#*ccc++=.</text>
+<text x="10" y="238.0" clip-path="url(#clip28)" xml:space="preserve">                  `s#cc*cs#+-+c*+*===--==+=+c*+s#c--scc=======-==-=-=c+s#*css+++:</text>
+<text x="10" y="246.0" clip-path="url(#clip29)" xml:space="preserve">                  :c##cccs#*-=*c*c+=++--=+==+ccc#+=+cs*++=====-==---=+=#sc#ss+=*=`</text>
+<text x="10" y="254.0" clip-path="url(#clip30)" xml:space="preserve">                  -cs#sscs#c+==++c++++===+==++*ss-=+cc***=*+-====-:-===#sss#%*=**=.</text>
+<text x="10" y="262.0" clip-path="url(#clip31)" xml:space="preserve">                  :cc#ssss#s*+=++**++++==++==**sc=+*c***c++*==+=-:--=+=##ss#%c=**+-</text>
+<text x="10" y="270.0" clip-path="url(#clip32)" xml:space="preserve">                  :s+s#cs###+++++***+++=++++=+csc-=+c*ccc*+*=----:--===#ss##%c=+c*=:</text>
+<text x="10" y="278.0" clip-path="url(#clip33)" xml:space="preserve">                  .#*c#ss###*++=+***++==++*+==csc:--*ccss+**+=--:``::=+#ss#%%c=+**=-`</text>
+<text x="10" y="286.0" clip-path="url(#clip34)" xml:space="preserve">                  .#c*##ss#%*====**+++=-+*c*+-=sc::--+csc+*cc+--:```:-=ss##%%c=+**+=-.</text>
+<text x="10" y="294.0" clip-path="url(#clip35)" xml:space="preserve">                  .ss+c#ss#%c====+++++=-=*c+++-*c:----=c+=+ccc*=::-=-=-s###%%c++***=--</text>
+<text x="10" y="302.0" clip-path="url(#clip36)" xml:space="preserve">                  .ss**#ss#%s====+++===-=**+=+++s-+=+--*+--+**++-::::=+##%%%#c***c**==:</text>
+<text x="10" y="310.0" clip-path="url(#clip37)" xml:space="preserve">                  .ccc*c#s#%#==-==++=---=*c+=-=+s=*+++:-++==+***+::::-*%%%%%#scccccc*==`</text>
+<text x="10" y="318.0" clip-path="url(#clip38)" xml:space="preserve">                  `ccc**s###%+==-==+=-:-=+c**+--c=--=++-::-+*ccc+::::-s%%%%%#scccc***+==.</text>
+<text x="10" y="326.0" clip-path="url(#clip39)" xml:space="preserve">                  `sccc**###%c=====+==-:-+****+-c*==+*++=:`:=+*s*=:::+s##%%%#ssccc*+++==:</text>
+<text x="10" y="334.0" clip-path="url(#clip40)" xml:space="preserve">                  `sc***cc#%%s=--=++--==-+**+**+*c=+=++cc*:`:-=csc*+--=*c+#%###sssc+=`.</text>
+<text x="10" y="342.0" clip-path="url(#clip41)" xml:space="preserve">                  .cc***cs#%%#=--===-:--=+++=-=++*:=--:=+*+:. .-=++*+:.:++-s%##sc*=::</text>
+<text x="10" y="350.0" clip-path="url(#clip42)" xml:space="preserve">                   +%#sss###%%*::----`::--=--:::-+-s=::``:---`   ..`::``-=:`sc*+=:``:</text>
+<text x="10" y="358.0" clip-path="url(#clip43)" xml:space="preserve">                   :%sc***cs#%c:`::::.``::-=:`.`:+:::::`..``:::`....::``:--=sc*+=::`:</text>
+<text x="10" y="366.0" clip-path="url(#clip44)" xml:space="preserve">                    cs*+=+*cs#c:`:`::.```:::-:``:+-::--`......``:``:::``:::*sc*+=::::</text>
+<text x="10" y="374.0" clip-path="url(#clip45)" xml:space="preserve">                    :sc*+++*s#s-`::::``::--::-:`-*+---+=-````.``::````````-*#sc+=::-`</text>
+<text x="10" y="382.0" clip-path="url(#clip46)" xml:space="preserve">                     cs*+++*c##=::---:`:-----:::-c*--=***=`.`:::--....`:-c=*#sc*=:--</text>
+<text x="10" y="390.0" clip-path="url(#clip47)" xml:space="preserve">                     =#c*+++*s%*------:----====-:+*=c=+cccc-`.......``:-=c=c#s*+--=:</text>
+<text x="10" y="398.0" clip-path="url(#clip48)" xml:space="preserve">                     .csc*++*c#s*+==-=-----==+++=+*-*=-***ccc*+=-``-==:`:++##c*=--=</text>
+<text x="10" y="406.0" clip-path="url(#clip49)" xml:space="preserve">                      -ssc+++*#csc++++===-::---==*s:::-::--------=-:::``:-=#sc+--=`</text>
+  <rect class="cur" x="10" y="23.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="259.6" begin="0.20s" dur="0.52s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.20s"/><set attributeName="opacity" to="0" begin="0.72s"/></rect>
+<rect class="cur" x="10" y="31.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="283.6" begin="0.30s" dur="0.57s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.30s"/><set attributeName="opacity" to="0" begin="0.87s"/></rect>
+<rect class="cur" x="10" y="39.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="293.2" begin="0.40s" dur="0.59s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.40s"/><set attributeName="opacity" to="0" begin="0.99s"/></rect>
+<rect class="cur" x="10" y="47.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="302.8" begin="0.50s" dur="0.61s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.50s"/><set attributeName="opacity" to="0" begin="1.11s"/></rect>
+<rect class="cur" x="10" y="55.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="307.6" begin="0.60s" dur="0.62s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.60s"/><set attributeName="opacity" to="0" begin="1.22s"/></rect>
+<rect class="cur" x="10" y="63.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="307.6" begin="0.70s" dur="0.62s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.70s"/><set attributeName="opacity" to="0" begin="1.32s"/></rect>
+<rect class="cur" x="10" y="71.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="307.6" begin="0.80s" dur="0.62s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.80s"/><set attributeName="opacity" to="0" begin="1.42s"/></rect>
+<rect class="cur" x="10" y="79.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="307.6" begin="0.90s" dur="0.62s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.90s"/><set attributeName="opacity" to="0" begin="1.52s"/></rect>
+<rect class="cur" x="10" y="87.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="302.8" begin="1.00s" dur="0.61s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.00s"/><set attributeName="opacity" to="0" begin="1.61s"/></rect>
+<rect class="cur" x="10" y="95.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="298.0" begin="1.10s" dur="0.60s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.10s"/><set attributeName="opacity" to="0" begin="1.70s"/></rect>
+<rect class="cur" x="10" y="103.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="298.0" begin="1.20s" dur="0.60s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.20s"/><set attributeName="opacity" to="0" begin="1.80s"/></rect>
+<rect class="cur" x="10" y="111.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="293.2" begin="1.30s" dur="0.59s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.30s"/><set attributeName="opacity" to="0" begin="1.89s"/></rect>
+<rect class="cur" x="10" y="119.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="293.2" begin="1.40s" dur="0.59s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.40s"/><set attributeName="opacity" to="0" begin="1.99s"/></rect>
+<rect class="cur" x="10" y="127.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="288.4" begin="1.50s" dur="0.58s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.50s"/><set attributeName="opacity" to="0" begin="2.08s"/></rect>
+<rect class="cur" x="10" y="135.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="278.8" begin="1.60s" dur="0.56s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.60s"/><set attributeName="opacity" to="0" begin="2.16s"/></rect>
+<rect class="cur" x="10" y="143.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="288.4" begin="1.70s" dur="0.58s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.70s"/><set attributeName="opacity" to="0" begin="2.28s"/></rect>
+<rect class="cur" x="10" y="151.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="293.2" begin="1.80s" dur="0.59s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.80s"/><set attributeName="opacity" to="0" begin="2.39s"/></rect>
+<rect class="cur" x="10" y="159.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="312.4" begin="1.90s" dur="0.63s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.90s"/><set attributeName="opacity" to="0" begin="2.53s"/></rect>
+<rect class="cur" x="10" y="167.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="336.4" begin="2.00s" dur="0.68s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.00s"/><set attributeName="opacity" to="0" begin="2.68s"/></rect>
+<rect class="cur" x="10" y="175.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="355.6" begin="2.10s" dur="0.72s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.10s"/><set attributeName="opacity" to="0" begin="2.82s"/></rect>
+<rect class="cur" x="10" y="183.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="365.2" begin="2.20s" dur="0.74s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.20s"/><set attributeName="opacity" to="0" begin="2.94s"/></rect>
+<rect class="cur" x="10" y="191.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="374.8" begin="2.30s" dur="0.76s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.30s"/><set attributeName="opacity" to="0" begin="3.06s"/></rect>
+<rect class="cur" x="10" y="199.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="384.4" begin="2.40s" dur="0.78s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.40s"/><set attributeName="opacity" to="0" begin="3.18s"/></rect>
+<rect class="cur" x="10" y="207.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="389.2" begin="2.50s" dur="0.79s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.50s"/><set attributeName="opacity" to="0" begin="3.29s"/></rect>
+<rect class="cur" x="10" y="215.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="394.0" begin="2.60s" dur="0.80s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.60s"/><set attributeName="opacity" to="0" begin="3.40s"/></rect>
+<rect class="cur" x="10" y="223.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="398.8" begin="2.70s" dur="0.81s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.70s"/><set attributeName="opacity" to="0" begin="3.51s"/></rect>
+<rect class="cur" x="10" y="231.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="398.8" begin="2.80s" dur="0.81s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.80s"/><set attributeName="opacity" to="0" begin="3.61s"/></rect>
+<rect class="cur" x="10" y="239.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="403.6" begin="2.90s" dur="0.82s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.90s"/><set attributeName="opacity" to="0" begin="3.72s"/></rect>
+<rect class="cur" x="10" y="247.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="408.4" begin="3.00s" dur="0.83s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.00s"/><set attributeName="opacity" to="0" begin="3.83s"/></rect>
+<rect class="cur" x="10" y="255.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="408.4" begin="3.10s" dur="0.83s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.10s"/><set attributeName="opacity" to="0" begin="3.93s"/></rect>
+<rect class="cur" x="10" y="263.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="413.2" begin="3.20s" dur="0.84s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.20s"/><set attributeName="opacity" to="0" begin="4.04s"/></rect>
+<rect class="cur" x="10" y="271.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="418.0" begin="3.30s" dur="0.85s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.30s"/><set attributeName="opacity" to="0" begin="4.15s"/></rect>
+<rect class="cur" x="10" y="279.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="422.8" begin="3.40s" dur="0.86s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.40s"/><set attributeName="opacity" to="0" begin="4.26s"/></rect>
+<rect class="cur" x="10" y="287.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="422.8" begin="3.50s" dur="0.86s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.50s"/><set attributeName="opacity" to="0" begin="4.36s"/></rect>
+<rect class="cur" x="10" y="295.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="427.6" begin="3.60s" dur="0.87s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.60s"/><set attributeName="opacity" to="0" begin="4.47s"/></rect>
+<rect class="cur" x="10" y="303.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="432.4" begin="3.70s" dur="0.88s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.70s"/><set attributeName="opacity" to="0" begin="4.58s"/></rect>
+<rect class="cur" x="10" y="311.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="437.2" begin="3.80s" dur="0.89s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.80s"/><set attributeName="opacity" to="0" begin="4.69s"/></rect>
+<rect class="cur" x="10" y="319.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="437.2" begin="3.90s" dur="0.89s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.90s"/><set attributeName="opacity" to="0" begin="4.79s"/></rect>
+<rect class="cur" x="10" y="327.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="427.6" begin="4.00s" dur="0.87s" fill="freeze"/><set attributeName="opacity" to="1" begin="4.00s"/><set attributeName="opacity" to="0" begin="4.87s"/></rect>
+<rect class="cur" x="10" y="335.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="418.0" begin="4.10s" dur="0.85s" fill="freeze"/><set attributeName="opacity" to="1" begin="4.10s"/><set attributeName="opacity" to="0" begin="4.95s"/></rect>
+<rect class="cur" x="10" y="343.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="418.0" begin="4.20s" dur="0.85s" fill="freeze"/><set attributeName="opacity" to="1" begin="4.20s"/><set attributeName="opacity" to="0" begin="5.05s"/></rect>
+<rect class="cur" x="10" y="351.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="418.0" begin="4.30s" dur="0.85s" fill="freeze"/><set attributeName="opacity" to="1" begin="4.30s"/><set attributeName="opacity" to="0" begin="5.15s"/></rect>
+<rect class="cur" x="10" y="359.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="418.0" begin="4.40s" dur="0.85s" fill="freeze"/><set attributeName="opacity" to="1" begin="4.40s"/><set attributeName="opacity" to="0" begin="5.25s"/></rect>
+<rect class="cur" x="10" y="367.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="418.0" begin="4.50s" dur="0.85s" fill="freeze"/><set attributeName="opacity" to="1" begin="4.50s"/><set attributeName="opacity" to="0" begin="5.35s"/></rect>
+<rect class="cur" x="10" y="375.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="413.2" begin="4.60s" dur="0.84s" fill="freeze"/><set attributeName="opacity" to="1" begin="4.60s"/><set attributeName="opacity" to="0" begin="5.44s"/></rect>
+<rect class="cur" x="10" y="383.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="413.2" begin="4.70s" dur="0.84s" fill="freeze"/><set attributeName="opacity" to="1" begin="4.70s"/><set attributeName="opacity" to="0" begin="5.54s"/></rect>
+<rect class="cur" x="10" y="391.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="408.4" begin="4.80s" dur="0.83s" fill="freeze"/><set attributeName="opacity" to="1" begin="4.80s"/><set attributeName="opacity" to="0" begin="5.63s"/></rect>
+<rect class="cur" x="10" y="399.0" width="4.8" height="8" opacity="0"><animate attributeName="x" from="10" to="408.4" begin="4.90s" dur="0.83s" fill="freeze"/><set attributeName="opacity" to="1" begin="4.90s"/><set attributeName="opacity" to="0" begin="5.73s"/></rect>
 </svg>
