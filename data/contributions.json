@@ -1,9 +1,9 @@
 {
   "username": "naveenkm21",
-  "generated_at": "2026-08-21T07:08:52.750818+00:00",
+  "generated_at": "2026-08-22T07:00:41.300606+00:00",
   "range": {
     "start": "2025-08-17",
-    "end": "2026-08-21"
+    "end": "2026-08-22"
   },
   "days": [
     {
@@ -1853,19 +1853,24 @@
     },
     {
       "date": "2026-08-21",
-      "count": 1,
+      "count": 5,
+      "level": 1
+    },
+    {
+      "date": "2026-08-22",
+      "count": 5,
       "level": 1
     }
   ],
   "stats": {
-    "total": 849,
-    "current_streak": 21,
-    "longest_streak": 21,
+    "total": 858,
+    "current_streak": 22,
+    "longest_streak": 22,
     "best_day": {
       "date": "2026-04-17",
       "count": 113
     },
-    "active_days": 128,
+    "active_days": 129,
     "monthly": {
       "2025-08": 45,
       "2025-09": 70,
@@ -1879,7 +1884,7 @@
       "2026-05": 51,
       "2026-06": 274,
       "2026-07": 26,
-      "2026-08": 71
+      "2026-08": 80
     }
   }
 }
